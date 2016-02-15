@@ -1,0 +1,5 @@
+Refered links
+
+http://jsonviewer.stack.hu/ -- Json viewer
+https://ctrlq.org/code/20004-google-spreadsheets-json - third party integrations
+https://spreadsheets.google.com/feeds/list/1YU4GEcdRBQU7YPZe72FNAKvGg-wE6S9MD0IU4AEWvdk/od6/public/values?alt=json - Link to Data file
